@@ -2,8 +2,8 @@
 module Example
   class Formatter
 
+    # This method must exist.
     def initialize(step_mother, io, options)
-      # This method must exist
       @io = io
     end
 
